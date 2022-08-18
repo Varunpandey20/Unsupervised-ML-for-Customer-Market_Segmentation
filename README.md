@@ -1,6 +1,6 @@
 # Unsupervised-Machine-Learning-for-Customer-Segmentation
-During COVID Lockdown, I undertook a few courses and projects on [Coursera](https://www.coursera.org/learn/machine-learning-for-customer-segmentation/ungradedLti/cKOMr/unsupervised-machine-learning-for-customer-segmentation).
-While I was familiar with K-Means Clustering and PCA, I had lots to learn from this Guided Project. 
+
+While I was familiar with K-Means Clustering and PCA, I had lots to learn from this Project. 
 If you want to explore PCA more, [this](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/) blog by Machine Learning Mastery was very helpful for me.
 
 
